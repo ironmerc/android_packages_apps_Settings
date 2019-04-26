@@ -193,4 +193,7 @@
 
     <!-- Strings for suggestion card's close button [CHAR LIMIT=20] -->
     <string name="suggestion_button_close">Close</string>
+
+    <!-- Custom Header -->
+    <string name="custom_headers_title">Custom Headers</string>
 </resources>
