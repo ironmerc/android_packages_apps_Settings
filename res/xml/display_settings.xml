@@ -131,6 +131,13 @@
         android:summary="@string/wake_when_plugged_or_unplugged_summary"
         android:defaultValue="false" />
 
+    <com.dirtyunicorns.support.preferences.SystemSettingSwitchPreference
+        android:key="hide_notch"
+        android:title="@string/hide_notch_title"
+        android:summary="@string/hide_notch_subtitle"
+        android:defaultValue="false"
+        settings:controller="com.android.settings.display.HideNotchController" />
+
     <ListPreference
         android:key="theme"
         android:title="@string/device_theme"

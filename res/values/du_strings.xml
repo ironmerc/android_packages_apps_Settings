@@ -187,4 +187,8 @@
 
     <!-- Custom Header -->
     <string name="custom_headers_title">Custom Headers</string>
+
+    <!-- Hide notch -->
+    <string name="hide_notch_title">Hide notch</string>
+    <string name="hide_notch_subtitle">Draws black bar behind statusbar to hide notch</string>
 </resources>
