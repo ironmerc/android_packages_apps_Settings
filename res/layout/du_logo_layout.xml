@@ -17,15 +17,16 @@
 */
 -->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:gravity="center"
-    android:orientation="horizontal" >
+    	   android:gravity="center"
+	   android:layout_width="match_parent"
+	   android:layout_height="wrap_content"
+           android:selectable="false">
 
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="120dp"
-        android:adjustViewBounds="false"
-        android:scaleType="centerCrop"
-        android:src="@drawable/durex" />
-</LinearLayout>
+           <ImageView
+	       android:layout_width="match_parent"
+ 	       android:layout_height="match_parent"
+	       android:src="@drawable/du_banner"
+	       android:tint="?android:attr/colorAccent"
+	       android:adjustViewBounds="false"
+	       android:scaleType="centerInside" />
+        </LinearLayout>
