@@ -19,9 +19,9 @@
     <string name="packagename_text"><xliff:g id="package_name">%1$s</xliff:g></string>
 
     <!-- About phone screen, DureX version -->
-    <string name="durex_version">DU version</string>
+    <string name="durex_version">DirtyUnicorns Version</string>
     <string name="durex_version_default">Unknown</string>
-    <string name="keywords_durex_version">DU version</string>
+    <string name="keywords_durex_version">DirtyUnicorns Version</string>
     <string name="maintainer">Maintainer</string>
 
 
